@@ -4,4 +4,6 @@ global $name;
 
 echo "Hello ".$name;
 
+echo "This is new".$test;
+
 ?>
