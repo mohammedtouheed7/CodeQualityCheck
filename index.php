@@ -3,7 +3,7 @@ include_once('function.php');
 global $name;
 
 echo "Hello ".$name;
-if($test){
+if(test){
     echo $ok;
 }
 echo "This is new".$test;
